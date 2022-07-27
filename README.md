@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rayhan-BUBT
-- 👀 I’m interested in Artificial Intellegence & Cyber security
+- 👀 I’m interested in Artificial Intellegence & Cyber Security
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Artificial Intellegence & Cyber security
+- 💞️ I’m looking to collaborate on Artificial Intellegence & Cyber Security
 - 📫 How to reach me rk333ksap98@gmail.com
 
 <!---
